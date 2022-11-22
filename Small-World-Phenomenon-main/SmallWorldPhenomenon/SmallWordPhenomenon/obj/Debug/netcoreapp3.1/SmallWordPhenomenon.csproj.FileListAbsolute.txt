@@ -1,0 +1,28 @@
+C:\Huda\FCIS\3rd Year\2nd Term\Algorithms\Project\C_sharp_project\SmallWordPhenomenon\SmallWordPhenomenon\bin\Debug\netcoreapp3.1\SmallWordPhenomenon.exe
+C:\Huda\FCIS\3rd Year\2nd Term\Algorithms\Project\C_sharp_project\SmallWordPhenomenon\SmallWordPhenomenon\bin\Debug\netcoreapp3.1\SmallWordPhenomenon.deps.json
+C:\Huda\FCIS\3rd Year\2nd Term\Algorithms\Project\C_sharp_project\SmallWordPhenomenon\SmallWordPhenomenon\bin\Debug\netcoreapp3.1\SmallWordPhenomenon.runtimeconfig.json
+C:\Huda\FCIS\3rd Year\2nd Term\Algorithms\Project\C_sharp_project\SmallWordPhenomenon\SmallWordPhenomenon\bin\Debug\netcoreapp3.1\SmallWordPhenomenon.runtimeconfig.dev.json
+C:\Huda\FCIS\3rd Year\2nd Term\Algorithms\Project\C_sharp_project\SmallWordPhenomenon\SmallWordPhenomenon\bin\Debug\netcoreapp3.1\SmallWordPhenomenon.dll
+C:\Huda\FCIS\3rd Year\2nd Term\Algorithms\Project\C_sharp_project\SmallWordPhenomenon\SmallWordPhenomenon\bin\Debug\netcoreapp3.1\SmallWordPhenomenon.pdb
+C:\Huda\FCIS\3rd Year\2nd Term\Algorithms\Project\C_sharp_project\SmallWordPhenomenon\SmallWordPhenomenon\obj\Debug\netcoreapp3.1\SmallWordPhenomenon.csproj.AssemblyReference.cache
+C:\Huda\FCIS\3rd Year\2nd Term\Algorithms\Project\C_sharp_project\SmallWordPhenomenon\SmallWordPhenomenon\obj\Debug\netcoreapp3.1\SmallWordPhenomenon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Huda\FCIS\3rd Year\2nd Term\Algorithms\Project\C_sharp_project\SmallWordPhenomenon\SmallWordPhenomenon\obj\Debug\netcoreapp3.1\SmallWordPhenomenon.AssemblyInfoInputs.cache
+C:\Huda\FCIS\3rd Year\2nd Term\Algorithms\Project\C_sharp_project\SmallWordPhenomenon\SmallWordPhenomenon\obj\Debug\netcoreapp3.1\SmallWordPhenomenon.AssemblyInfo.cs
+C:\Huda\FCIS\3rd Year\2nd Term\Algorithms\Project\C_sharp_project\SmallWordPhenomenon\SmallWordPhenomenon\obj\Debug\netcoreapp3.1\SmallWordPhenomenon.csproj.CoreCompileInputs.cache
+C:\Huda\FCIS\3rd Year\2nd Term\Algorithms\Project\C_sharp_project\SmallWordPhenomenon\SmallWordPhenomenon\obj\Debug\netcoreapp3.1\SmallWordPhenomenon.dll
+C:\Huda\FCIS\3rd Year\2nd Term\Algorithms\Project\C_sharp_project\SmallWordPhenomenon\SmallWordPhenomenon\obj\Debug\netcoreapp3.1\SmallWordPhenomenon.pdb
+C:\Huda\FCIS\3rd Year\2nd Term\Algorithms\Project\C_sharp_project\SmallWordPhenomenon\SmallWordPhenomenon\obj\Debug\netcoreapp3.1\SmallWordPhenomenon.genruntimeconfig.cache
+C:\Users\AZ\OneDrive\Documents\GitHub\Small-Word-Phenomenon\SmallWordPhenomenon\SmallWordPhenomenon\bin\Debug\netcoreapp3.1\SmallWordPhenomenon.exe
+C:\Users\AZ\OneDrive\Documents\GitHub\Small-Word-Phenomenon\SmallWordPhenomenon\SmallWordPhenomenon\bin\Debug\netcoreapp3.1\SmallWordPhenomenon.deps.json
+C:\Users\AZ\OneDrive\Documents\GitHub\Small-Word-Phenomenon\SmallWordPhenomenon\SmallWordPhenomenon\bin\Debug\netcoreapp3.1\SmallWordPhenomenon.runtimeconfig.json
+C:\Users\AZ\OneDrive\Documents\GitHub\Small-Word-Phenomenon\SmallWordPhenomenon\SmallWordPhenomenon\bin\Debug\netcoreapp3.1\SmallWordPhenomenon.runtimeconfig.dev.json
+C:\Users\AZ\OneDrive\Documents\GitHub\Small-Word-Phenomenon\SmallWordPhenomenon\SmallWordPhenomenon\bin\Debug\netcoreapp3.1\SmallWordPhenomenon.dll
+C:\Users\AZ\OneDrive\Documents\GitHub\Small-Word-Phenomenon\SmallWordPhenomenon\SmallWordPhenomenon\bin\Debug\netcoreapp3.1\SmallWordPhenomenon.pdb
+C:\Users\AZ\OneDrive\Documents\GitHub\Small-Word-Phenomenon\SmallWordPhenomenon\SmallWordPhenomenon\obj\Debug\netcoreapp3.1\SmallWordPhenomenon.csproj.AssemblyReference.cache
+C:\Users\AZ\OneDrive\Documents\GitHub\Small-Word-Phenomenon\SmallWordPhenomenon\SmallWordPhenomenon\obj\Debug\netcoreapp3.1\SmallWordPhenomenon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AZ\OneDrive\Documents\GitHub\Small-Word-Phenomenon\SmallWordPhenomenon\SmallWordPhenomenon\obj\Debug\netcoreapp3.1\SmallWordPhenomenon.AssemblyInfoInputs.cache
+C:\Users\AZ\OneDrive\Documents\GitHub\Small-Word-Phenomenon\SmallWordPhenomenon\SmallWordPhenomenon\obj\Debug\netcoreapp3.1\SmallWordPhenomenon.AssemblyInfo.cs
+C:\Users\AZ\OneDrive\Documents\GitHub\Small-Word-Phenomenon\SmallWordPhenomenon\SmallWordPhenomenon\obj\Debug\netcoreapp3.1\SmallWordPhenomenon.csproj.CoreCompileInputs.cache
+C:\Users\AZ\OneDrive\Documents\GitHub\Small-Word-Phenomenon\SmallWordPhenomenon\SmallWordPhenomenon\obj\Debug\netcoreapp3.1\SmallWordPhenomenon.dll
+C:\Users\AZ\OneDrive\Documents\GitHub\Small-Word-Phenomenon\SmallWordPhenomenon\SmallWordPhenomenon\obj\Debug\netcoreapp3.1\SmallWordPhenomenon.pdb
+C:\Users\AZ\OneDrive\Documents\GitHub\Small-Word-Phenomenon\SmallWordPhenomenon\SmallWordPhenomenon\obj\Debug\netcoreapp3.1\SmallWordPhenomenon.genruntimeconfig.cache
